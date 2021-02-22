@@ -11,9 +11,10 @@
             "mode": "debug",
             "program": "${workspaceFolder}",
             "args": [
-                        "-Xjre","C:\\Program Files\\Java\\jre1.8.0_101"
-                        "java.lang.Object"
-                    ]
+                "-Xjre",
+                "C:\\Program Files\\Java\\jre1.8.0_101",
+                "java.lang.Object"
+            ]
         }
     ]
 }

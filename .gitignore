@@ -6,4 +6,4 @@ build/
 out/
 *.iml
 *.DS_Store
-v1/code/go/src/jvmgo/ch02/__debug_bin
+*__debug_bin
